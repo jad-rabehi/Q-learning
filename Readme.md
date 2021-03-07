@@ -9,6 +9,8 @@ The algorithm, therefore, has a function that calculates the quality of a state�
 
     Q : S × A → R.
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
  
 
 
