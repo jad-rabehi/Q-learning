@@ -7,9 +7,9 @@ Q-Learning is a model-free form of machine learning, in the sense that the AI "a
 
 The algorithm, therefore, has a function that calculates the quality of a state–action combination:
 
-    Q : S × A → R.
+    .
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=Q : S \times A \arrow R">
 
  
 
