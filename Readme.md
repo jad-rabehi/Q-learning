@@ -36,7 +36,7 @@ observes a reward <img src="https://render.githubusercontent.com/render/math?mat
  
 
 
-<img src:"images/qlearningwiki.png" width="600">
+<img src="images/qlearningwiki.png" width="600">
 *figure credit: https://en.wikipedia.org/wiki/Q-learning*
 
 where <img src="https://render.githubusercontent.com/render/math?math=r_{t}">
