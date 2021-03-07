@@ -1,11 +1,11 @@
-# A simple Q-learning control for MountainCar (OpenAI's gym)
+# A simple Q-learning control for MountainCar 
 
 ## Algorithm
 
 Q-Learning is a model-free form of machine learning, in the sense that the AI "agent" does not need to know or have a model of the environment that it will be in. For a given environment, everything is broken down into "states" and "actions." The states are observations and samplings that we pull from the environment, and the actions are the choices the agent has made based on the observation. 
 
 
-The algorithm has a function that calculates the quality of a state–action combination known as Q-table: <img src="https://render.githubusercontent.com/render/math?math=\centering \Large Q : S \times A \rightarrow R.">
+The algorithm has a function that calculates the quality of a state–action combination known as Q-table: <img src="https://render.githubusercontent.com/render/math?math=\Large Q : S \times A \rightarrow R.">
 
 
 
@@ -35,3 +35,6 @@ To get gym, just do
 ```
 
 ![evironment end](https://github.com/jad-rabehi/Q-learning/blob/main/images/endepisode.png)
+
+---
+### Copyright
