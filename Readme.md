@@ -49,10 +49,11 @@ For more details, the reader can see the reference
 
 ## Environment
 
-The algorithm is applied on an OpenAI's gym, the "MountainCar-v0" environment. The goal is to learn the car to move from the down position to  reach the position pinned with flag as it is shown in figure below.
+The algorithm is applied to an OpenAI's gym, the "MountainCar-v0" environment. The goal is to learn the car to move from the initial (lower) position to  reach the flag (upper) position, as it is shown in figure below.
 
-<img src="images/startepisode.png" width="400">  <img src="images/endepisode.png" width="400">
+<img src="images/startepisode.png" width="350">  >> into >> <img src="images/endepisode.png" width="350">
 
 
 ---
 ### Copyright
+
