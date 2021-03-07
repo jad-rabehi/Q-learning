@@ -49,9 +49,9 @@ For more details, the reader can see the reference
 
 ## Environment
 
-This algorithm is working with an OpenAI's gym, the "MountainCar-v0" environment. The goal is to learn the car to move from the  down position to the and reach the up position (Pinned with flag) as it is show in figure below.
+The algorithm is applied on an OpenAI's gym, the "MountainCar-v0" environment. The goal is to learn the car to move from the down position to  reach the position pinned with flag as it is shown in figure below.
 
-<img src="images/startepisode.png" width="500">  <img src="images/endepisode.png" width="500">
+<img src="images/startepisode.png" width="400">  <img src="images/endepisode.png" width="400">
 
 
 ---
